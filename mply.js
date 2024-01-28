@@ -3,7 +3,7 @@ let ad_show_p = document.querySelector(".ad-show p");
 let timer2 = 5;
 
 //jaldi yeha se hato
-// (c) lord krishna (c) biisal
+// (c) lord krishna (c) zishan
 
 async function getDets() {
   let randPage = Math.floor(1 + Math.random() * 100);
